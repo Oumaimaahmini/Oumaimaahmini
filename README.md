@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Oumaimaahmini
-- 👀 I’m interested in GIS 🌍 ,Data, Computer Science💻, Geomatic🌐, IT development, Remote Sensing...
-- 🌱 I’m currently learning Geomatic engineering
+- 👀 I’m interested in Data, Computer Science💻, IT development...
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me : oumaimaahmini@gmail.com
 
